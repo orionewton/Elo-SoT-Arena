@@ -63,11 +63,11 @@ def init():
         (47, "Le Hollandais Violent 2 - Ex", "𝐿𝐻𝒱 - 2 - Ex", 0, elo),
         (48, "Five Coconuts", "[ꜰ╳ᴄ]", 0, elo),
         (49, 'Devils Of Seas - 2', '𝒟o𝒮 - 2', 0, elo),
-        (50, 'Vulvy Army', 'VA', 1, elo),
+        (50, 'Vulvy Army', 'VA', 0, elo),
         (51, "Grenouilles Ðe Ͼombat", "GÐϾ", 1, elo),
         (52, "Dans Ta Barque", "DTB", 1, elo),
         (53, "Death Angel", "ÐΛ", 1, elo),
-        (54, "Hearthless of Paradise", "HOP - C", 1, elo),
+        (54, "Hearthless of Paradise", "HOP - C", 0, elo),
         (55, "Four on Fort", "4Ø4", 1, elo),
         (56, "La Folie de Cthulhu - Nyar", "Ƒ𝔬𝔲 - Nyar", 1, elo),
         (57, "2 Old Crew", "𝟚𝕠𝕝𝕕", 1, elo),
@@ -77,6 +77,7 @@ def init():
         (61, "Le Hollandais Violent 2", "𝐿𝐻𝒱 - 2", 1, elo),
         (62, 'Legends of Yesterday Souls - B', '𝕃𝕐𝕊', 1, elo),
         (63, 'Arche du Grog', '𝐆𝖗𝖔𝖌🍻', 1, elo),
+        (64, "Rocks", '𝓡𝓞𝓒', 1, elo),
     ]
 
     with con:
