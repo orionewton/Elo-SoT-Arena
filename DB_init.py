@@ -66,9 +66,9 @@ def init():
         (50, 'Vulvy Army', 'VA', 0, elo),
         (51, "Grenouilles Ðe Ͼombat", "GÐϾ", 1, elo),
         (52, "Dans Ta Barque", "DTB", 1, elo),
-        (53, "Death Angel", "ÐΛ", 1, elo),
+        (53, "Death Angel - Cronos", "ÐΛ - Cronos", 1, elo),
         (54, "Hearthless of Paradise", "HOP - C", 0, elo),
-        (55, "Four on Fort", "4Ø4", 1, elo),
+        (55, "Four on Fort", "4Ø4", 0, elo),
         (56, "La Folie de Cthulhu - Nyar", "Ƒ𝔬𝔲 - Nyar", 1, elo),
         (57, "2 Old Crew", "𝟚𝕠𝕝𝕕", 1, elo),
         (58, "404 red", "404 red", 1, elo),
@@ -78,6 +78,13 @@ def init():
         (62, 'Legends of Yesterday Souls - B', '𝕃𝕐𝕊', 1, elo),
         (63, 'Arche du Grog', '𝐆𝖗𝖔𝖌🍻', 1, elo),
         (64, "Rocks", '𝓡𝓞𝓒', 1, elo),
+        (65, "The Lion's Revenge", "TLR", 1, elo),
+        (66, "Death Angel - Hades", "ÐΛ - Hades", 1, elo),
+        (67, 'Fallen Angels', 'FΛ', 1, elo),
+        (68, "Death Dealers - Orion", "𝕯𝕯 - 𝕺𝖗𝖎𝖔𝖓", 1, elo),
+        (69, "Death Dealers - hel", "𝕯𝕯 - 𝖍𝖊𝖑", 1, elo),
+        (70, "Les Pirates Gros Givrés", "PGG", 1, elo),
+        (71, 'Devils Of Seas', '𝒟o𝒮', 1, elo),
     ]
 
     with con:
