@@ -85,6 +85,7 @@ def init():
         (69, "Death Dealers - hel", "𝕯𝕯 - 𝖍𝖊𝖑", 1, elo),
         (70, "Les Pirates Gros Givrés", "PGG", 1, elo),
         (71, 'Devils Of Seas', '𝒟o𝒮', 1, elo),
+        (72, "Dismal", "𝒟𝑀𝐿", 1, elo),
     ]
 
     with con:
