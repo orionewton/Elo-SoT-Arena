@@ -27,7 +27,7 @@ def add_team():  # Ajout d'équipe dans la base
     tag = str(input())
     con = sl.connect('tentacup.db')
     with con:
-        con.execute('INSERT INTO TEAM (name, tag, elo) values("' + name + '", "' + tag + '",1 ,1000)')
+        con.execute('INSERT INTO TEAM (name, tag, elo) values("' + name + '", "' + tag + ',1 ,1000)')
 
 
 def mod_team():  # Modifier une team dans la base

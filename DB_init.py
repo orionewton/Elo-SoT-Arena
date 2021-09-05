@@ -61,7 +61,7 @@ def init():
         (45, "Fish & Sinks", "F&S - 2", 0, elo),
         (46, "Le Hollandais Violent", "𝐿𝐻𝒱", 1, elo),
         (47, "Le Hollandais Violent 2 - Ex", "𝐿𝐻𝒱 - 2 - Ex", 0, elo),
-        (48, "Five Coconuts", "[ꜰ╳ᴄ]", 0, elo),
+        (48, "Five Coconuts-Ex", "ꜰ╳ᴄ - Ex", 0, elo),
         (49, 'Devils Of Seas - 2', '𝒟o𝒮 - 2', 0, elo),
         (50, 'Vulvy Army', 'VA', 0, elo),
         (51, "Grenouilles Ðe Ͼombat", "GÐϾ", 1, elo),
@@ -86,6 +86,7 @@ def init():
         (70, "Les Pirates Gros Givrés", "PGG", 1, elo),
         (71, 'Devils Of Seas', '𝒟o𝒮', 1, elo),
         (72, "Dismal", "𝒟𝑀𝐿", 1, elo),
+        (73, "Five Coconuts", "[ꜰ╳ᴄ]", 1, elo),
     ]
 
     with con:
