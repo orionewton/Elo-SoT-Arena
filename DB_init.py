@@ -65,7 +65,7 @@ def init():
         (49, 'Devils Of Seas - 2', '𝒟o𝒮 - 2', 0, elo),
         (50, 'Vulvy Army', 'VA', 0, elo),
         (51, "Grenouilles Ðe Ͼombat", "GÐϾ", 1, elo),
-        (52, "Dans Ta Barque", "DTB", 1, elo),
+        (52, "Dans Ta Barque", "DTB", 0, elo),
         (53, "Death Angel - Cronos", "ÐΛ - Cronos", 1, elo),
         (54, "Hearthless of Paradise", "HOP - C", 0, elo),
         (55, "Four on Fort", "4Ø4", 0, elo),
