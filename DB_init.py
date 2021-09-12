@@ -87,6 +87,7 @@ def init():
         (71, 'Devils Of Seas', '𝒟o𝒮', 1, elo),
         (72, "Dismal", "𝒟𝑀𝐿", 1, elo),
         (73, "Five Coconuts", "[ꜰ╳ᴄ]", 1, elo),
+        (74, "La Folie de Cthulhu - Dagon", "Ƒ𝔬𝔲 - Dagon", 1, elo),
     ]
 
     with con:
