@@ -57,7 +57,7 @@ def init():
         (41, "Born On Boat Intervention Système", "BOBIS", 0, elo),
         (42, 'Lost Wolves', 'LW', 0, elo),
         (43, 'Devils Of Seas - Manta', '𝒟o𝒮 Manta', 0, elo),
-        (44, 'Poulpeurs de Mer - Kraken', 'ᴥ - Kraken', 1, elo),
+        (44, 'Poulpeurs de Mer - Kraken', 'ᴥ - Kraken', 0, elo),
         (45, "Fish & Sinks", "F&S - 2", 0, elo),
         (46, "Le Hollandais Violent", "𝐿𝐻𝒱", 1, elo),
         (47, "Le Hollandais Violent 2 - Ex", "𝐿𝐻𝒱 - 2 - Ex", 0, elo),
@@ -89,7 +89,7 @@ def init():
         (73, "Five Coconuts", "[ꜰ╳ᴄ]", 1, elo),
         (74, "La Folie de Cthulhu - Dagon", "Ƒ𝔬𝔲 - Dagon", 1, elo),
         (75, "Viva la Revolution", "VLR", 1, elo),
-        (76, "Poulpeurs de Mer - Charybde", "ᴥ - Charybde", 1, elo),
+        (76, "Poulpeurs de Mer - Kraken", "ᴥ - Kraken", 1, elo),
     ]
 
     with con:
