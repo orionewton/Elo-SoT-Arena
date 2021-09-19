@@ -89,6 +89,7 @@ def init():
         (73, "Five Coconuts", "[ꜰ╳ᴄ]", 1, elo),
         (74, "La Folie de Cthulhu - Dagon", "Ƒ𝔬𝔲 - Dagon", 1, elo),
         (75, "Viva la Revolution", "VLR", 1, elo),
+        (76, "Poulpeurs de Mer - Charybde", "ᴥ - Charybde", 1, elo),
     ]
 
     with con:
