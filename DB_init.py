@@ -6,7 +6,7 @@ def init():
 
     with con:
         con.execute(
-            """CREATE TABLE TEAM (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, name TEXT, tag TEXT, act BOOL, 
+            """CREATE TABLE TEAM (id INTEGER NOT NULL PRIMARY KEY AUTOINCREMENT, name TEXT, tag TEXT, act BOOL,
             elo INTEGER);""")
 
     sql = 'INSERT INTO TEAM (id, name, tag, act, elo) values(?, ?, ?, ?, ?)'
@@ -88,6 +88,7 @@ def init():
         (72, "Dismal", "𝒟𝑀𝐿", 1, elo),
         (73, "Five Coconuts", "[ꜰ╳ᴄ]", 1, elo),
         (74, "La Folie de Cthulhu - Dagon", "Ƒ𝔬𝔲 - Dagon", 1, elo),
+        (75, "Viva la Revolution", "VLR", 1, elo),
     ]
 
     with con:
