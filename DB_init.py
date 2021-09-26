@@ -68,7 +68,7 @@ def init():
         (52, "Dans Ta Barque", "DTB", 0, elo),
         (53, "Death Angel - Cronos", "ÐΛ - Cronos", 1, elo),
         (54, "Hearthless of Paradise", "HOP - C", 0, elo),
-        (55, "Four on Fort", "4Ø4", 0, elo),
+        (55, "Four on Fort", "4Ø4 blue", 1, elo),
         (56, "La Folie de Cthulhu - Nyar", "Ƒ𝔬𝔲 - Nyar", 1, elo),
         (57, "2 Old Crew", "𝟚𝕠𝕝𝕕", 1, elo),
         (58, "404 red", "404 red", 1, elo),
