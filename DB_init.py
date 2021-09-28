@@ -90,6 +90,7 @@ def init():
         (74, "La Folie de Cthulhu - Dagon", "Ƒ𝔬𝔲 - Dagon", 1, elo),
         (75, "Viva la Revolution", "VLR", 1, elo),
         (76, "Poulpeurs de Mer - Kraken", "ᴥ - Kraken", 1, elo),
+        (77, 'TortugS', '𝕋 - S', 1, elo),
     ]
 
     with con:
