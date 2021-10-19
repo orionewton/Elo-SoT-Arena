@@ -92,6 +92,8 @@ def init():
         (76, "Poulpeurs de Mer - Kraken", "ᴥ - Kraken", 0, elo),
         (77, 'TortugS', '𝕋 - S', 1, elo),
         (78, '𝔾lorious 𝕊eagulls', 'GS', 1, elo),
+        (79, 'Rocks 2', '[𝓡𝓞𝓒]', 1, elo),
+        (80, 'Overlord', '[O.S.F]', 1, elo),
     ]
 
     with con:
