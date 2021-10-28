@@ -95,6 +95,7 @@ def init():
         (79, 'Rocks - Onyx', '𝓡𝓞𝓒 - Onyx', 1, elo),
         (80, 'Overlord', '[O.S.F]', 1, elo),
         (81, 'Couture', 'Cout', 0, elo),
+        (82, 'SOT Next Gen', '[SNG]', 1, elo),
 
     ]
 
