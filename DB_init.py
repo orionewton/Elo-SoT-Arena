@@ -77,7 +77,7 @@ def init():
         (61, "Le Hollandais Violent 2", "𝐿𝐻𝒱 - 2", 1, elo),
         (62, 'Legends of Yesterday Souls - B', '𝕃𝕐𝕊', 1, elo),
         (63, 'Arche du Grog', '𝐆𝖗𝖔𝖌🍻', 1, elo),
-        (64, "Rocks", '𝓡𝓞𝓒', 1, elo),
+        (64, "Rocks - Rubis", '𝓡𝓞𝓒 - Rubis', 1, elo),
         (65, "The Lion's Revenge", "TLR", 1, elo),
         (66, "Death Angel - Hades", "ÐΛ - Hades", 1, elo),
         (67, 'Fallen Angels', 'FΛ', 1, elo),
@@ -92,8 +92,10 @@ def init():
         (76, "Poulpeurs de Mer - Kraken", "ᴥ - Kraken", 0, elo),
         (77, 'TortugS', '𝕋 - S', 1, elo),
         (78, '𝔾lorious 𝕊eagulls', 'GS', 1, elo),
-        (79, 'Rocks 2', '[𝓡𝓞𝓒]', 1, elo),
+        (79, 'Rocks - Onyx', '𝓡𝓞𝓒 - Onyx', 1, elo),
         (80, 'Overlord', '[O.S.F]', 1, elo),
+        (81, 'Couture', 'Cout', 0, elo),
+
     ]
 
     with con:
