@@ -96,6 +96,8 @@ def init():
         (80, 'Overlord', '[O.S.F]', 1, elo),
         (81, 'Couture', 'Cout', 0, elo),
         (82, 'SOT Next Gen', '[SNG]', 1, elo),
+        (83, 'NoLife', 'NL', 1, elo),
+        (84, "L'Equipage de Barbe Rose", 'EBR', 1, elo),
 
     ]
 
