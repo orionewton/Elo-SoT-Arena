@@ -73,7 +73,7 @@ def init():
         (57, "2 Old Crew", "𝟚𝕠𝕝𝕕", 1, elo),
         (58, "404 red", "404 red", 1, elo),
         (59, "𝕋𝕙𝕖 𝔾𝕙𝕠𝕤𝕥 𝔽𝕝𝕒𝕞𝕖", "𝕋𝔾𝔽", 0, elo),
-        (60, "Fish & Ships - Branchie Belliqueuse", "F&S - Branchie", 1, elo),
+        (60, "Fish & Ships - Poisson diable", "F&S - Diable", 1, elo),
         (61, "Le Hollandais Violent 2", "𝐿𝐻𝒱 - 2", 1, elo),
         (62, 'Legends of Yesterday Souls - B', '𝕃𝕐𝕊', 1, elo),
         (63, 'Arche du Grog', '𝐆𝖗𝖔𝖌🍻', 1, elo),
@@ -98,6 +98,8 @@ def init():
         (82, 'SOT Next Gen', '[SNG]', 1, elo),
         (83, 'NoLife', 'NL', 1, elo),
         (84, "L'Equipage de Barbe Rose", 'EBR', 1, elo),
+        (85, "Fish & Ships - Déferlante", 'F&S - Déferlante', 1, elo),
+        (86, "Fish & Ships - Sournois", 'F&S - Sournois', 1, elo),
 
     ]
 
