@@ -100,6 +100,7 @@ def init():
         (84, "L'Equipage de Barbe Rose", 'EBR', 1, elo),
         (85, "Fish & Ships - Déferlante", 'F&S - Déferlante', 1, elo),
         (86, "Fish & Ships - Sournois", 'F&S - Sournois', 1, elo),
+		(87, "Alliance of the seas", 'AS', 1, elo),
 
     ]
 
